@@ -1,0 +1,103 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+.banner {
+
+
+}
+.img-banner {
+    margin: 50px;
+
+}
+
+.menu ul{
+    display: flex;
+
+
+
+}
+.menulist li a {
+    margin: 0;
+    display: flex;
+    color: white;
+    
+
+}
+a {
+    text-decoration: none;
+}
+.item {
+    padding: 8px;
+    list-style: none;
+
+
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(62, 153, 238);
+
+
+}
+
+#principal {
+    
+
+}
+
+.lancamentos {
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+
+
+}
+
+.title-lanca {
+    color: rgb(62, 153, 238);
+    font-weight: 800;
+
+}
+
+.livros {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.img-lanca{
+    width: 100px;
+    height: 200px;
+}
+.quinca {
+
+}
+
+.title{
+    font-weight: 800;
+
+}
+
+.text {
+    width: 161px;
+
+}
+
+.preco {
+    color: blue;
+    font-weight: 900;
+}
+
+.guerra {
+
+}
+
+.irmaos {
+
+}
+
+
+
+
